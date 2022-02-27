@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight in Ireland between the Lord Lievt. Cromwels forces and the Lord Inchequeens army neer Washford, the number killed and taken prisoners, Col Trevor wounded, and the Lord Inchequeens colours taken General Oneal dead, and the Lord Lievt. drawing away his forces from besieging Duncanon, also the taking of Capt. Plunkets ship with 36 pieces of ordnance with four other ships of a great value, and the manner of Capt. Plunckets escape for his life in a long-boat. Together with a letter of news concerning Col. King, and Col. Johnston, and sixty sail of ships with soldiers, going for Scotland, with the reason and uncertrinty [sic] of that report.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85594</idno>
+            <idno type="STC">Wing G1697</idno>
+            <idno type="STC">Thomason E584_2</idno>
+            <idno type="STC">ESTC R206217</idno>
+            <idno type="EEBO-CITATION">99865391</idno>
+            <idno type="PROQUEST">99865391</idno>
+            <idno type="VID">117631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117631)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E584[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight in Ireland between the Lord Lievt. Cromwels forces and the Lord Inchequeens army neer Washford, the number killed and taken prisoners, Col Trevor wounded, and the Lord Inchequeens colours taken General Oneal dead, and the Lord Lievt. drawing away his forces from besieging Duncanon, also the taking of Capt. Plunkets ship with 36 pieces of ordnance with four other ships of a great value, and the manner of Capt. Plunckets escape for his life in a long-boat. Together with a letter of news concerning Col. King, and Col. Johnston, and sixty sail of ships with soldiers, going for Scotland, with the reason and uncertrinty [sic] of that report.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and are to be sold neer Criplegate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 4 letters dated 14 to 24 of November, 1649.</note>
+                  <note>Annotation on Thomason copy: "Nou. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiqin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117631:1" rendition="simple:additions"/>
+            <p>A Great FIGHT IN IRELAND Between the Lord Lievt. Cromwels forces and the Lord Inchequeens army neer Waſhford, the number killed and taken priſoners, Col Tre<g ref="char:EOLhyphen"/>vor wounded, and the Lord Inchequeens co<g ref="char:EOLhyphen"/>lours taken General Oneal dead, and the Lord Lievt. drawing away his forces from beſieging Duncanon, ALSO The taking of Capt. Plunkets ſhip with 36 pieces of Ordnance with four other ſhips of a great value, and the manner of Capt: Plunckets eſ<g ref="char:EOLhyphen"/>cape for his life in a Long-boat.</p>
+            <p>Together With a Letter of news concerning Col. King, and Col. Johnſton, and ſixty ſail of ſhips with Sol<g ref="char:EOLhyphen"/>diers, going for Scotland, with the reaſon and uncertrinty of that report.</p>
+            <p>Printed by <hi>B. A.</hi> and are to be ſold neer Criplegate, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117631:2"/>
+            <pb n="1" facs="tcp:117631:2"/>
+            <head>Severall LEETTERS Of a great fight in IRELAND Neer Waſhford betweene the Lord Lievte<g ref="char:EOLhyphen"/>nant Cromwells forces, and the Lord In<g ref="char:EOLhyphen"/>chequeens army.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>Bout five hundred foot, and three hundred horſe, which were left at Dublin, for reco<g ref="char:EOLhyphen"/>very of their health, were ap<g ref="char:EOLhyphen"/>pointed by the Lord Lievtenant to march
+<pb n="2" facs="tcp:117631:3"/>unto Waſhford, under the command of Major Nelſon. The Enemy having intel<g ref="char:EOLhyphen"/>ligence thereof, ſent out a party of about fifteen hundred horſe, and two Regiments of foot of Inchequins men under the command of Sir Thomas Armſtrong, but it pleaſed God miraculouſly to deliver, out party out of the hands of the enemy who had a ſharp encounter with them, and after a while put them to the worſt, and had the purſuit of them above a mile in this fight (on the enemies party was wounded Collonel Trevor, and his bro<g ref="char:EOLhyphen"/>ther was ſlain and about twenty more on the place, we took about thirty priſoners, amongſt which was Inchequeens Cornet, we alſo taking his Colours, not one Of<g ref="char:EOLhyphen"/>ficer was loſt on our ſide, only a Captain of horſe was ſhot in the Leg, and about ſix private Souldiers ſlain, This morning we hear, that Owen Roe Oneal is dead, the Engliſh Souldiers come in dayly from the enemy, The death of General Oneal, is very much lamented among his party, and it is probable, that this buſineſſe will
+<pb n="3" facs="tcp:117631:3"/>in a ſhort time, cauſe a great faction, to a<g ref="char:EOLhyphen"/>riſe amongſt the Iriſh, which is all at pre<g ref="char:EOLhyphen"/>ſent from your aſſured friend.</p>
+                  <closer>
+                     <signed>R.L.</signed>
+                     <dateline>
+                        <hi>Dublin</hi> 
+                        <date>
+                           <hi>Novemb.</hi> 14. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Letter from Ireland.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Thank you for your Letter, and am heartily glad to hear of the preſent re<g ref="char:EOLhyphen"/>crvits for Ireland. For newes here, take it briefly thus, the Kord Lieutenant of Ire<g ref="char:EOLhyphen"/>land did ſend five hundred foote, and three hundred horſe to go to Wexford, and the Lord Inchiquin hearing of them, ſent ſir Thomas Armſtrong with eight hun<g ref="char:EOLhyphen"/>dred horſe, and two thouſand foot, to fall upon them, ſaying, they ſhould not need to fight much with them, for they ſhould find them lye dead under every hedge, but it pleaſed God, miraculouſly to deliver theſe poor men, for the Enemy falling on, it pleaſed God to ſtrengthen theſe poore
+<pb n="4" facs="tcp:117631:4"/>diſtreſsed creatures, that they routed the Enemy, killed about 30, and took neer 60, with very little loſs on our ſide, thus you ſee the great mercy of God to us, and J doubt not, but in a ſhort time, the Lord will finiſh his great work in that nation. So J reſt,</p>
+                  <closer>
+                     <signed>Your affectionate friend I. M.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from Cheſter.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>COllonel Pride is here, and hath three parties of foot coming hither to be tranſ<g ref="char:EOLhyphen"/>ported for Ireland, and I believe they will be about a thouſand men, and thou theſe with three companies of Colonell Moors, and three com<g ref="char:EOLhyphen"/>panies of colonel Fenwicks, wil make a conſi<g ref="char:EOLhyphen"/>derable body: Captain Clarke, captain of the ſwan frigot that went convoy for Derry, is come back and put into Heland, and writes me
+<pb n="5" facs="tcp:117631:4"/>thence ſome relation he hath heard from ſcot<g ref="char:EOLhyphen"/>land, that eight great ſhips ſhould be arrived there, and that colonell King, collonel Iohnſon. and many others are landed, and ſixty ſail of ſhips with ſouldiers, of all which I believe little or no part of it; for I have a Nephew that went over with captain Clark to London-Derry, who ſent me a letter, wherein he writes not one word of it. This is all I will trouble you at preſent.</p>
+                  <closer>
+                     <date>
+                        <hi>November</hi> 24, 1649.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Letter from Ireland.</head>
+                  <opener>
+                     <salute>SIR</salute>
+                  </opener>
+                  <p>SInce my laſt, I received Letters, confir<g ref="char:EOLhyphen"/>ming for certain Corke and youg hall have declared for the Parliament of England, and they hope the moſt part of Munſter will be gained without ſhedding of bloud.</p>
+                  <p>I hope your diſtractions are at a period, and if ſo, <hi>I</hi> doubt not but by the bleſſing of God, in
+<pb n="6" facs="tcp:117631:5"/>ear longer the adverſaries boaſting ſpirits will be quieted. We are now treating with Waterford, and in a ſhort time <hi>I</hi> hope to give you a good account of it: many of our Officers are dead. That arch ſea Pirate, captain Plun<g ref="char:EOLhyphen"/>ket was taken, with two prizes, but himſelf e<g ref="char:EOLhyphen"/>ſcaped in a long boat, his ſhip had thirty ſix piece of Ordnance, and came into our harbour before he was aware, three priſes more were ta<g ref="char:EOLhyphen"/>ken in the River near Duncannon, before we withdrow our Army thence.</p>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>JOHN RUSHWORTH.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </back>
+   </text>
+</TEI>
